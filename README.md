@@ -1,1 +1,1 @@
-Prediction using Supervised ML
+Data Analysis and Prediction Projects
